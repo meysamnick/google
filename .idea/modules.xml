@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/google.iml" filepath="$PROJECT_DIR$/.idea/google.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../fitbit/python-fitbit/.idea/python-fitbit.iml" filepath="$PROJECT_DIR$/../fitbit/python-fitbit/.idea/python-fitbit.iml" />
     </modules>
   </component>
 </project>
